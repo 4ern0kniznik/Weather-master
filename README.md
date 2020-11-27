@@ -41,7 +41,6 @@ Search City|Settings Activity | Widget
 * com.squareup.okhttp3:logging-interceptor:3.3.1
 * com.google.android.gms:play-services-location:10.2.0
 * com.firebase:firebase-jobdispatcher:0.5.2
-* com.facebook.fresco:fresco:1.1.0
 
 #### Prerequisites
 
@@ -53,8 +52,4 @@ Create an api.gradle file in Weather directory after generating API Key from Api
     GEONAME_API_KEY= "YOUR_USER_NAME"; 
     WEATHER_API_KEY = "YOUR_API_KEY"; }
 
-Developed By
--------
-Igor Havrylyuk (Graviton57)
 
-[1]: https://github.com/graviton57/weather.git
